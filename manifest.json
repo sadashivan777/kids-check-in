@@ -1,0 +1,20 @@
+{
+  "name": "R & V Mindful Garden",
+  "short_name": "RV Garden",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f6f2",
+  "theme_color": "#4a7c59",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
